@@ -22,6 +22,6 @@ Here’s a clean and professional intro for you in a similar format:<br><br>---<
 ![](https://github-contributor-stats.vercel.app/api?username=RiteshGangurde&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RiteshGangurde&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
