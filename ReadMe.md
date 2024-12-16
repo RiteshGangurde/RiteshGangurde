@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hii There, I Am Ritesh Gangurde<br><br>---<br><br>🛠 I’m currently working on:  <br>A cross-platform food ordering application using React Native for seamless UI/UX.  <br><br>🤝 I’m looking to collaborate on: <br>Front-end development projects or hackathon teams.  <br><br>🧩 I’m looking for help with:  <br>Improving my skills in iOS development and cyber forensics.  <br><br>🌱 I’m currently learning:  <br>Advanced *=-React Native and concepts in cyber forensics.  <br><br>💬 Ask me about:  <br>Front-end development, Smart India Hackathon, and my internship projects like Landing Pages, User Interfaces and Simple Games.  <br><br>⚡ **Fun fact:**  <br>I’m passionate about solving real-world problems through technology and innovation.  <br><br>
 
 
