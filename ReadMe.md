@@ -12,8 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-gangurde-7b93b9227)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RiteshGangurde)
 
-<br/>
-
 </div>
 
 ---
@@ -25,21 +23,24 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
-Name     : Ritesh Gangurde
-Role     : Front-end Developer
-Location : India 🇮🇳
-Focus    : React Native & Cyber Forensics
-Status   : Open to Collaborate 🤝
-Fun Fact : Turning ideas into impactful software ⚡
+╭─────────────────────────────────────╮
+│         RITESH GANGURDE             │
+│  ─────────────────────────────────  │
+│  Role     : Front-end Developer     │
+│  Location : India  🇮🇳              │
+│  Focus    : React Native + Cyber    │
+│  Status   : Open to Collaborate 🤝  │
+│  Passion  : Real-world via Tech ⚡  │
+╰─────────────────────────────────────╯
 ```
 
 <br/>
 
-🛠 **Building:** Cross-platform food ordering app with React Native  
-🌱 **Learning:** Advanced React Native & Cyber Forensics  
-🤝 **Collaborating on:** Front-end projects & hackathon teams  
-🧩 **Seeking help with:** iOS development & cyber forensics  
-💬 **Ask me about:** Front-end dev, Smart India Hackathon & UI projects  
+🛠 **Building:** Cross-platform food ordering app with React Native
+🌱 **Learning:** Advanced React Native & Cyber Forensics
+🤝 **Collaborating on:** Front-end projects & hackathon teams
+🧩 **Seeking help with:** iOS development & cyber forensics
+💬 **Ask me about:** Front-end dev, Smart India Hackathon & UI projects
 
 <br clear="right"/>
 
@@ -49,9 +50,20 @@ Fun Fact : Turning ideas into impactful software ⚡
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
 
-<details open>
-<summary><b>🖥️ Languages</b></summary>
+<div align="center">
+
+![](https://skillicons.dev/icons?i=c,cpp,cs,js,java,kotlin,php,html,css&theme=dark&perline=9)
+![](https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,tailwind,bootstrap,firebase&theme=dark&perline=9)
+![](https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark&perline=9)
+![](https://skillicons.dev/icons?i=figma,xd,ps,ai,ae,pr,blender&theme=dark&perline=9)
+![](https://skillicons.dev/icons?i=git,github,vscode,unity,unreal&theme=dark&perline=9)
+
+</div>
+
 <br/>
+
+<details>
+<summary><b>🖥️ Languages</b></summary><br/>
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -66,9 +78,8 @@ Fun Fact : Turning ideas into impactful software ⚡
 
 </details>
 
-<details open>
-<summary><b>⚛️ Frameworks & Runtimes</b></summary>
-<br/>
+<details>
+<summary><b>⚛️ Frameworks & Runtimes</b></summary><br/>
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -81,9 +92,8 @@ Fun Fact : Turning ideas into impactful software ⚡
 
 </details>
 
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br/>
+<details>
+<summary><b>🗄️ Databases</b></summary><br/>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
@@ -91,9 +101,8 @@ Fun Fact : Turning ideas into impactful software ⚡
 
 </details>
 
-<details open>
-<summary><b>🎨 Design & Creative</b></summary>
-<br/>
+<details>
+<summary><b>🎨 Design & Creative</b></summary><br/>
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -106,9 +115,8 @@ Fun Fact : Turning ideas into impactful software ⚡
 
 </details>
 
-<details open>
-<summary><b>🛠️ Tools & DevOps</b></summary>
-<br/>
+<details>
+<summary><b>🛠️ Tools & DevOps</b></summary><br/>
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
@@ -118,9 +126,8 @@ Fun Fact : Turning ideas into impactful software ⚡
 
 </details>
 
-<details open>
-<summary><b>🎮 Gaming & Engines</b></summary>
-<br/>
+<details>
+<summary><b>🎮 Gaming & Engines</b></summary><br/>
 
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white)
@@ -129,6 +136,105 @@ Fun Fact : Turning ideas into impactful software ⚡
 ![Riot Games](https://img.shields.io/badge/Riot%20Games-D32936.svg?style=flat-square&logo=riotgames&logoColor=white)
 
 </details>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🚀 Featured Projects
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🍔 Food Ordering App
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FF9100.svg?style=flat-square&logo=firebase&logoColor=white)
+
+> Cross-platform food ordering app with seamless UI/UX, real-time order tracking, and Firebase backend.
+
+- 📱 Cross-platform iOS & Android
+- 🔥 Real-time updates via Firebase
+- 🎨 Smooth animations & intuitive UI
+- 🔐 Secure authentication flow
+
+</td>
+<td width="50%">
+
+### 🎮 Simple Games Collection
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+
+> Browser-based games built during internship — DOM manipulation, game loops & responsive design.
+
+- 🕹️ Multiple game modes
+- 🎯 Score tracking system
+- 📱 Mobile responsive
+- ⚡ Pure JS, zero dependencies
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌐 Landing Pages & UI
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+
+> Production-ready landing pages & UI components from internship, focused on conversion-optimized design.
+
+- ✨ Modern animated layouts
+- 🎨 Figma to code workflows
+- 📐 Pixel-perfect implementation
+- 🚀 Performance optimized
+
+</td>
+<td width="50%">
+
+### 🏆 Smart India Hackathon
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+
+> Hackathon project solving a real government problem statement — built under 36 hours.
+
+- ⚡ Built in 36 hours
+- 🇮🇳 Government problem statement
+- 👥 Full team collaboration
+- 🔗 End-to-end solution
+
+</td>
+</tr>
+</table>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎓 Education & Certifications
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                      EDUCATION                           ║
+╠══════════════════════════════════════════════════════════╣
+║  🎓  Bachelor of Engineering / B.Tech                    ║
+║      Computer Science / Information Technology           ║
+║      India  🇮🇳                                         ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+| 🏅 Certification | 🏢 Platform | 📅 Status |
+|:---|:---|:---:|
+| ![Cisco](https://img.shields.io/badge/Cisco-Networking_Basics-%23049fd9?style=flat-square&logo=cisco&logoColor=white) | Cisco NetAcad | ✅ Completed |
+| ![Meta](https://img.shields.io/badge/Meta-Front--End_Developer-%230084FF?style=flat-square&logo=meta&logoColor=white) | Coursera / Meta | 🔄 In Progress |
+| ![Google](https://img.shields.io/badge/Google-Cybersecurity_Certificate-%234285F4?style=flat-square&logo=google&logoColor=white) | Google / Coursera | 🔄 In Progress |
+| ![React](https://img.shields.io/badge/React_Native-Advanced_Concepts-%2361DAFB?style=flat-square&logo=react&logoColor=black) | Self Study | 🔄 In Progress |
+| ![SIH](https://img.shields.io/badge/Smart_India_Hackathon-Participant-%23FF6B35?style=flat-square&logo=hack-the-box&logoColor=white) | Govt. of India | ✅ Participated |
+
+</div>
 
 ---
 
@@ -156,6 +262,47 @@ Fun Fact : Turning ideas into impactful software ⚡
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RiteshGangurde/RiteshGangurde/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RiteshGangurde/RiteshGangurde/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RiteshGangurde/RiteshGangurde/output/github-snake-dark.svg"/>
+</picture>
+
+</div>
+
+> ⚙️ **One-time setup** — create `.github/workflows/snake.yml` in your profile repo:
+>
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{ cron: "0 0 * * *" }]
+>   workflow_dispatch:
+> jobs:
+>   build:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: RiteshGangurde
+>           outputs: |
+>             dist/github-snake.svg
+>             dist/github-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3.1.0
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🔝 Top Contributed Repos
 
 <div align="center">
@@ -178,19 +325,63 @@ Fun Fact : Turning ideas into impactful software ⚡
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌐 Let's Connect & Talk
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=34D399&center=true&vCenter=true&width=620&lines=Always+open+to+exciting+projects+%F0%9F%9A%80;Let's+build+something+amazing+together+%F0%9F%A4%9D;Feel+free+to+reach+out+anytime+%F0%9F%91%87)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://discord.gg/Diablo6529">
+  <img src="https://img.shields.io/badge/Discord-Chat%20With%20Me-%235865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/ritesh-gangurde-7b93b9227">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:riteshgangurde@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/RiteshGangurde">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+```
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│   💡  Open to freelance & collaboration              │
+│   🏆  Hackathon teammate? Let's connect!             │
+│   📱  React Native project? Count me in!             │
+│   🔐  Cyber forensics discussions? Always!           │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
 <div align="center">
 
 ### ⚡ Fun Fact
-> *"Passionate about solving real-world problems through technology and innovation —*  
+> *"Passionate about solving real-world problems through technology and innovation —*
 > *turning bold ideas into impactful, elegant software."*
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RiteshGangurde&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/RiteshGangurde?style=for-the-badge&color=60a5fa&labelColor=0d1117&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/RiteshGangurde?style=for-the-badge&color=f472b6&labelColor=0d1117&label=TOTAL+STARS)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
