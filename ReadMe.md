@@ -1,18 +1,16 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=200&section=header&text=Ritesh%20Gangurde&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=UI%2FUX%20%26%20Web%20Developer%20%7C%20Based%20in%20India&descColor=aaaaaa&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ritesh%20Gangurde&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-end%20Developer%20%7C%20React%20Native%20Builder%20%7C%20UI%2FUX%20Craftsman&descAlignY=55&descSize=16" width="100%"/>
 
-<!-- AVAILABILITY BADGE -->
 <br/>
 
-[![Available for Work](https://img.shields.io/badge/●%20Available%20for%20Work-1a1a2e?style=for-the-badge&logoColor=white&color=0a0a0a&labelColor=0a0a0a)](https://brave-step-624707.framer.app/contact)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-→-ffffff?style=for-the-badge&color=1a1a2e&labelColor=1a1a2e)](https://brave-step-624707.framer.app)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0a0a0a&labelColor=0a0a0a)](https://linkedin.com/in/ritesh-gangurde-7b93b9227)
-&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-Diablo6529-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=0a0a0a&labelColor=0a0a0a)](https://discord.gg/Diablo6529#1086)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Ritesh+%F0%9F%91%8B;Front-end+Developer+%F0%9F%9A%80;React+Native+Builder+%F0%9F%93%B1;Hackathon+Enthusiast+%F0%9F%8F%86;UI%2FUX+Craftsman+%F0%9F%8E%A8;Cyber+Forensics+Explorer+%F0%9F%94%90)](https://git.io/typing-svg)
+
+<br/>
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Diablo6529)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-gangurde-7b93b9227)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RiteshGangurde)
 
 <br/>
 
@@ -20,47 +18,40 @@
 
 ---
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ABOUT -->
-```
-I blend creative intuition with sharp technical skills
-to craft designs that not only look good — but work like magic.
-```
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
-</div>
-
-<br/>
-
-## &nbsp;&nbsp;` 👤 ` &nbsp; About Me
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
-name       : Ritesh Gangurde
-role       : UI/UX Designer & Front-End Developer
-location   : India 🇮🇳
-status     : Available for work
-portfolio  : https://brave-step-624707.framer.app
+Name     : Ritesh Gangurde
+Role     : Front-end Developer
+Location : India 🇮🇳
+Focus    : React Native & Cyber Forensics
+Status   : Open to Collaborate 🤝
+Fun Fact : Turning ideas into impactful software ⚡
 ```
 
 <br/>
 
-## &nbsp;&nbsp;` ⚡ ` &nbsp; What I'm Up To
+🛠 **Building:** Cross-platform food ordering app with React Native  
+🌱 **Learning:** Advanced React Native & Cyber Forensics  
+🤝 **Collaborating on:** Front-end projects & hackathon teams  
+🧩 **Seeking help with:** iOS development & cyber forensics  
+💬 **Ask me about:** Front-end dev, Smart India Hackathon & UI projects  
 
-| &nbsp; | |
-|---|---|
-| 🛠 &nbsp; **Building** | Cross-platform food ordering app with React Native |
-| 🌱 &nbsp; **Learning** | Advanced React Native · Cyber Forensics |
-| 🤝 &nbsp; **Open to** | Front-end collabs · Hackathon teams |
-| 🧩 &nbsp; **Exploring** | iOS Development · Cyber Forensics tools |
-| 💬 &nbsp; **Ask me about** | Front-end dev · Smart India Hackathon · UI/UX Projects |
+<br clear="right"/>
 
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
+
+<details open>
+<summary><b>🖥️ Languages</b></summary>
 <br/>
-
-## &nbsp;&nbsp;` 💻 ` &nbsp; Tech Stack
-
-<div align="center">
-
-**Languages**
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -71,10 +62,13 @@ portfolio  : https://brave-step-624707.framer.app
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
 
+</details>
+
+<details open>
+<summary><b>⚛️ Frameworks & Runtimes</b></summary>
 <br/>
-
-**Frameworks & Runtimes**
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -85,101 +79,118 @@ portfolio  : https://brave-step-624707.framer.app
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 
-<br/>
+</details>
 
-**Databases**
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 
+</details>
+
+<details open>
+<summary><b>🎨 Design & Creative</b></summary>
 <br/>
 
-**Design & Creative**
-
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 
-<br/>
+</details>
 
-**Tools**
+<details open>
+<summary><b>🛠️ Tools & DevOps</b></summary>
+<br/>
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-</div>
+</details>
 
+<details open>
+<summary><b>🎮 Gaming & Engines</b></summary>
 <br/>
 
-## &nbsp;&nbsp;` 📊 ` &nbsp; GitHub Stats
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-white?style=flat-square&logo=OpenGL)
+![Epic Games](https://img.shields.io/badge/Epic%20Games-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white)
+![Riot Games](https://img.shields.io/badge/Riot%20Games-D32936.svg?style=flat-square&logo=riotgames&logoColor=white)
+
+</details>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RiteshGangurde&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&bg_color=0d0d0d" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGangurde&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d0d0d" height="160"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RiteshGangurde&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=60a5fa&text_color=94a3b8&ring_color=a78bfa&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshGangurde&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=fb923c&currStreakLabel=60a5fa&sideLabels=94a3b8&dates=4e576b&stroke=1e293b" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RiteshGangurde&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666&background=0d0d0d&stroke=1a1a1a" width="500"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGangurde&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=94a3b8&layout=donut" />
+<img width="54%" src="https://github-readme-activity-graph.vercel.app/graph?username=RiteshGangurde&bg_color=0d1117&color=a78bfa&line=60a5fa&point=f472b6&area=true&hide_border=true" />
+
+<br/><br/>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=RiteshGangurde&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
-<br/>
+---
 
-## &nbsp;&nbsp;` 🏆 ` &nbsp; GitHub Trophies
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🔝 Top Contributed Repos
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RiteshGangurde&theme=onestar&no-frame=true&no-bg=false&margin-w=6&column=7" width="100%"/>
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=RiteshGangurde&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117)
 
 </div>
 
-<br/>
+---
 
-## &nbsp;&nbsp;` 🔝 ` &nbsp; Top Contributed Repos
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ✍️ Dev Quote
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=RiteshGangurde&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa" width="500"/>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
-<br/>
-
-## &nbsp;&nbsp;` 💡 ` &nbsp; Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0d0d0d&border_color=1a1a2e" width="600"/>
-
-</div>
-
-<br/>
 
 ---
 
 <div align="center">
 
-**⚡ Passionate about solving real-world problems through technology and innovation.**
+### ⚡ Fun Fact
+> *"Passionate about solving real-world problems through technology and innovation —*  
+> *turning bold ideas into impactful, elegant software."*
 
 <br/>
 
-[![Visit Portfolio](https://img.shields.io/badge/↗%20Visit%20Portfolio-0a0a0a?style=for-the-badge&logoColor=white&color=ffffff&labelColor=0a0a0a)](https://brave-step-624707.framer.app)
-&nbsp;
-[![Resume](https://img.shields.io/badge/↓%20Resume-0a0a0a?style=for-the-badge&color=1a1a2e&labelColor=1a1a2e)](https://drive.google.com/file/d/11-o1JXcjDW9sSfK3utjfdvFNgBnwLOXl/view?usp=sharing)
+![Profile Views](https://komarev.com/ghpvc/?username=RiteshGangurde&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/RiteshGangurde?style=for-the-badge&color=60a5fa&labelColor=0d1117&label=FOLLOWERS)
 
 <br/>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
