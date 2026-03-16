@@ -1,4 +1,213 @@
-<div align="center">
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Aurora gradients -->
+    <radialGradient id="aurora1" cx="20%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#6d28d9" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="aurora2" cx="80%" cy="20%" r="45%">
+      <stop offset="0%" stop-color="#1d4ed8" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#1d4ed8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="aurora3" cx="55%" cy="80%" r="40%">
+      <stop offset="0%" stop-color="#065f46" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#065f46" stop-opacity="0"/>
+    </radialGradient>
+    <!-- meteor gradient -->
+    <linearGradient id="m1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0"/>
+      <stop offset="70%" stop-color="#c4b5fd" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="m2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0"/>
+      <stop offset="70%" stop-color="#93c5fd" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="m3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f472b6" stop-opacity="0"/>
+      <stop offset="70%" stop-color="#f9a8d4" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <!-- text gradient -->
+    <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#c4b5fd"/>
+      <stop offset="40%"  stop-color="#93c5fd"/>
+      <stop offset="75%"  stop-color="#6ee7b7"/>
+      <stop offset="100%" stop-color="#f9a8d4"/>
+    </linearGradient>
+    <linearGradient id="tg2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#a78bfa"/>
+      <stop offset="50%"  stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- BG -->
+  <rect width="900" height="280" fill="#07080f"/>
+
+  <!-- Aurora blobs -->
+  <rect width="900" height="280" fill="url(#aurora1)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="900" height="280" fill="url(#aurora2)">
+    <animate attributeName="opacity" values="1;0.6;1" dur="8s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="900" height="280" fill="url(#aurora3)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="10s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ── STARS (twinkling) ── -->
+  <!-- group A: bright stars -->
+  <g fill="white">
+    <circle cx="45"  cy="18"  r="1.2"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="120" cy="42"  r="0.8"><animate attributeName="opacity" values="0.4;1;0.4"   dur="3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="200" cy="12"  r="1.4"><animate attributeName="opacity" values="1;0.3;1"     dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="270" cy="55"  r="0.7"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.0s" repeatCount="indefinite"/></circle>
+    <circle cx="340" cy="22"  r="1.0"><animate attributeName="opacity" values="0.8;0.2;0.8" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="420" cy="40"  r="1.3"><animate attributeName="opacity" values="0.2;1;0.2"   dur="1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="500" cy="15"  r="0.9"><animate attributeName="opacity" values="1;0.4;1"     dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="575" cy="50"  r="1.1"><animate attributeName="opacity" values="0.5;1;0.5"   dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="640" cy="20"  r="0.8"><animate attributeName="opacity" values="0.9;0.3;0.9" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="710" cy="45"  r="1.4"><animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.0s" repeatCount="indefinite"/></circle>
+    <circle cx="780" cy="18"  r="0.7"><animate attributeName="opacity" values="1;0.2;1"     dur="4.5s" repeatCount="indefinite"/></circle>
+    <circle cx="850" cy="38"  r="1.2"><animate attributeName="opacity" values="0.6;1;0.6"   dur="1.9s" repeatCount="indefinite"/></circle>
+    <circle cx="880" cy="12"  r="0.9"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="30"  cy="70"  r="0.8"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="88"  cy="90"  r="1.1"><animate attributeName="opacity" values="0.3;1;0.3"   dur="1.7s" repeatCount="indefinite"/></circle>
+    <circle cx="155" cy="75"  r="0.7"><animate attributeName="opacity" values="0.9;0.3;0.9" dur="4.2s" repeatCount="indefinite"/></circle>
+    <circle cx="230" cy="95"  r="1.3"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.3s" repeatCount="indefinite"/></circle>
+    <circle cx="310" cy="80"  r="0.9"><animate attributeName="opacity" values="1;0.4;1"     dur="3.0s" repeatCount="indefinite"/></circle>
+    <circle cx="390" cy="100" r="0.7"><animate attributeName="opacity" values="0.5;1;0.5"   dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="465" cy="72"  r="1.2"><animate attributeName="opacity" values="0.8;0.2;0.8" dur="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="540" cy="88"  r="0.8"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="615" cy="70"  r="1.0"><animate attributeName="opacity" values="0.6;1;0.6"   dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="690" cy="92"  r="0.7"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="4.0s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="75"  r="1.3"><animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="830" cy="95"  r="0.9"><animate attributeName="opacity" values="1;0.3;1"     dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="60"  cy="240" r="0.8"><animate attributeName="opacity" values="0.4;0.9;0.4" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="255" r="1.1"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="250" cy="245" r="0.7"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="4.1s" repeatCount="indefinite"/></circle>
+    <circle cx="720" cy="250" r="1.2"><animate attributeName="opacity" values="0.7;0.2;0.7" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="810" cy="240" r="0.8"><animate attributeName="opacity" values="0.3;1;0.3"   dur="3.7s" repeatCount="indefinite"/></circle>
+    <circle cx="870" cy="260" r="1.0"><animate attributeName="opacity" values="0.8;0.2;0.8" dur="1.9s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- group B: violet-tinted stars -->
+  <g fill="#c4b5fd">
+    <circle cx="75"  cy="30"  r="1.0"><animate attributeName="opacity" values="0.6;1;0.6" dur="2.3s" repeatCount="indefinite"/></circle>
+    <circle cx="180" cy="60"  r="0.8"><animate attributeName="opacity" values="1;0.3;1"   dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="460" cy="30"  r="1.1"><animate attributeName="opacity" values="0.4;1;0.4" dur="1.9s" repeatCount="indefinite"/></circle>
+    <circle cx="660" cy="60"  r="0.9"><animate attributeName="opacity" values="0.8;0.2;0.8" dur="4.3s" repeatCount="indefinite"/></circle>
+    <circle cx="820" cy="30"  r="1.0"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.8s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- group C: blue-tinted stars -->
+  <g fill="#93c5fd">
+    <circle cx="130" cy="25"  r="0.9"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="3.0s" repeatCount="indefinite"/></circle>
+    <circle cx="360" cy="65"  r="1.1"><animate attributeName="opacity" values="0.3;1;0.3"   dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="35"  r="0.8"><animate attributeName="opacity" values="1;0.4;1"     dur="1.7s" repeatCount="indefinite"/></circle>
+    <circle cx="750" cy="65"  r="1.2"><animate attributeName="opacity" values="0.5;0.9;0.5" dur="3.9s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- ── METEOR 1 (violet, top-left → right) ── -->
+  <g opacity="0">
+    <animateTransform attributeName="transform" type="translate"
+      values="-200,-30; 1100,250" dur="2.5s" begin="0.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+      values="0;0;1;1;1;0" keyTimes="0;0.05;0.1;0.7;0.9;1" dur="2.5s" begin="0.5s" repeatCount="indefinite"/>
+    <line x1="-140" y1="0" x2="0" y2="0"
+      stroke="url(#m1)" stroke-width="1.8"
+      transform="rotate(28)"/>
+    <circle cx="0" cy="0" r="2" fill="white" opacity="0.9" filter="url(#glow)"/>
+  </g>
+
+  <!-- ── METEOR 2 (blue, mid delay) ── -->
+  <g opacity="0">
+    <animateTransform attributeName="transform" type="translate"
+      values="-150,20; 1050,280" dur="2.2s" begin="4.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+      values="0;0;1;1;1;0" keyTimes="0;0.05;0.1;0.7;0.9;1" dur="2.2s" begin="4.0s" repeatCount="indefinite"/>
+    <line x1="-120" y1="0" x2="0" y2="0"
+      stroke="url(#m2)" stroke-width="1.5"
+      transform="rotate(26)"/>
+    <circle cx="0" cy="0" r="1.6" fill="white" opacity="0.85" filter="url(#glow)"/>
+  </g>
+
+  <!-- ── METEOR 3 (pink, later) ── -->
+  <g opacity="0">
+    <animateTransform attributeName="transform" type="translate"
+      values="100,-20; 1100,220" dur="1.9s" begin="7.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+      values="0;0;1;1;1;0" keyTimes="0;0.05;0.1;0.65;0.9;1" dur="1.9s" begin="7.5s" repeatCount="indefinite"/>
+    <line x1="-100" y1="0" x2="0" y2="0"
+      stroke="url(#m3)" stroke-width="1.4"
+      transform="rotate(24)"/>
+    <circle cx="0" cy="0" r="1.5" fill="white" opacity="0.9" filter="url(#glow)"/>
+  </g>
+
+  <!-- ── METEOR 4 (small, quick) ── -->
+  <g opacity="0">
+    <animateTransform attributeName="transform" type="translate"
+      values="300,-10; 1000,180" dur="1.6s" begin="11s" repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+      values="0;0;0.8;0.8;0" keyTimes="0;0.08;0.15;0.75;1" dur="1.6s" begin="11s" repeatCount="indefinite"/>
+    <line x1="-80" y1="0" x2="0" y2="0"
+      stroke="url(#m1)" stroke-width="1.2"
+      transform="rotate(25)"/>
+    <circle cx="0" cy="0" r="1.3" fill="#e9d5ff" opacity="0.8"/>
+  </g>
+
+  <!-- ── MAIN TEXT ── -->
+  <!-- glow shadow layer -->
+  <text x="450" y="148" text-anchor="middle"
+    font-family="'Trebuchet MS', 'Segoe UI', Arial, sans-serif"
+    font-size="52" font-weight="900" letter-spacing="-1"
+    fill="#a78bfa" opacity="0.25" filter="url(#softglow)">
+    Ritesh Gangurde
+  </text>
+  <!-- gradient fill layer -->
+  <text x="450" y="148" text-anchor="middle"
+    font-family="'Trebuchet MS', 'Segoe UI', Arial, sans-serif"
+    font-size="52" font-weight="900" letter-spacing="-1"
+    fill="url(#tg)" filter="url(#glow)">
+    <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+    Ritesh Gangurde
+  </text>
+
+  <!-- subtitle -->
+  <text x="450" y="185" text-anchor="middle"
+    font-family="'JetBrains Mono','Courier New',monospace"
+    font-size="14" font-weight="500" letter-spacing="3"
+    fill="url(#tg2)" opacity="0.85">
+    <animate attributeName="opacity" values="0;0.85" dur="1.8s" fill="freeze"/>
+    Front-end Developer  ·  React Native  ·  UI/UX
+  </text>
+
+  <!-- bottom tagline -->
+  <text x="450" y="222" text-anchor="middle"
+    font-family="'Trebuchet MS','Segoe UI',Arial,sans-serif"
+    font-size="11" letter-spacing="5" text-transform="uppercase"
+    fill="#6ee7b7" opacity="0">
+    <animate attributeName="opacity" values="0;0.6" dur="2.5s" begin="0.5s" fill="freeze"/>
+    ✦ TURNING IDEAS INTO IMPACTFUL SOFTWARE ✦
+  </text>
+
+  <!-- decorative line under name -->
+  <line x1="200" y1="160" x2="700" y2="160" stroke="url(#tg)" stroke-width="0.5" opacity="0.25">
+    <animate attributeName="x1" values="450;200" dur="1.4s" fill="freeze"/>
+    <animate attributeName="x2" values="450;700" dur="1.4s" fill="freeze"/>
+  </line>
+</svg>
+      <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ritesh%20Gangurde&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-end%20Developer%20%7C%20React%20Native%20Builder%20%7C%20UI%2FUX%20Craftsman&descAlignY=55&descSize=16" width="100%"/>
 
